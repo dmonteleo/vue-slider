@@ -1,0 +1,11 @@
+Esercizio di oggi: Vue Slider
+nome repo: vue-slider
+Descrizione:
+Partendo dal markup consegnate rendere dinamici tutti i contenuti (foto e testi) e al click su una thumb, visualizzare in grande l’immagine corrispondente
+Bonus:
+1- applicare l’autoplay allo slider: ogni 3 secondi, cambia immagine automaticamente
+2- quando il mouse va in hover sullo slider, bloccare l’autoplay e farlo riprendere quando esce
+Buon lavoro !
+ps:
+se avete dubbi o cose non capite aprite un ticket. E’ comprensibile farsi aiutare dai compagni ma prima di tutto non si è sicuri che la soluzione suggerita dal compagno sia la migliore e poi, la stessa cosa, spiegata da un insegnate probabilmente viene spiegata nel miglior modo :occhiolino: .
+Ricordatevi che il fine delle esercitazioni non è quello di fare l’esercitazione giusta ma di essere in grado di farla da soli, magari sotto stress, magari a un colloquio. Che è quella cosa che fa la differenza fra trovare un lavoro oppure no…
